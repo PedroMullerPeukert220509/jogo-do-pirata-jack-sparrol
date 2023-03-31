@@ -1,1 +1,3 @@
-# jogo-do-pirata-jack-sparrol
+# PiratesInvasionStage-6
+
+adding sounds and score
